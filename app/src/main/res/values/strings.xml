@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Конвертер</string>
+    <string name="converting_error">Введено некорректное значение</string>
+    <string name="converter_from_currency">Из валюты</string>
+    <string name="converter_to_currency">В валюту</string>
+    <string name="converter_convert">Перевести</string>
+    <string name="converter_swap_currencies">Сменить валюты</string>
+    <string name="converter_ratio_format">1 %1$s = %2$.2f %3$s</string>
+    <string name="refresh_error">Не удалось обновить курсы валют</string>
+</resources>
